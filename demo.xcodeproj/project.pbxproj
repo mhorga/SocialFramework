@@ -54,10 +54,10 @@
 		2999F0F41BE80CDB00F26D1A /* demo */ = {
 			isa = PBXGroup;
 			children = (
-				2999F0F51BE80CDB00F26D1A /* AppDelegate.swift */,
 				2999F0F71BE80CDB00F26D1A /* ViewController.swift */,
 				2999F0F91BE80CDB00F26D1A /* Main.storyboard */,
 				2999F0FC1BE80CDB00F26D1A /* Assets.xcassets */,
+				2999F0F51BE80CDB00F26D1A /* AppDelegate.swift */,
 				2999F0FE1BE80CDB00F26D1A /* LaunchScreen.storyboard */,
 				2999F1011BE80CDB00F26D1A /* Info.plist */,
 			);
